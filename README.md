@@ -9,7 +9,7 @@ The Palladius system is a method for transcribing Chinese into Russian Cyrillic 
 This module provides conversion from three major Chinese romanization systems:
 - **Pinyin** (汉语拼音) - The official romanization system of the People's Republic of China
 - **Wade-Giles** - A romanization system previously used in English-speaking countries
-- **Bopomofo** (注音符号) - The phonetic system using created [Zhang Binglin](https://en.wikipedia.org/wiki/Zhang_Binglin), taken mainly from "[regularized](https://en.wikipedia.org/wiki/Regular_script)" forms of ancient Chinese characters
+- **Bopomofo** (注音符号) - The phonetic system using created by [Zhang Binglin](https://en.wikipedia.org/wiki/Zhang_Binglin), taken mainly from "[regularized](https://en.wikipedia.org/wiki/Regular_script)" forms of ancient Chinese characters
 
 ### Обзор
 
