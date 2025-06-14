@@ -7,7 +7,7 @@ A Raku module for converting Chinese romanization systems (Pinyin, Wade-Giles, B
 The Palladius system is a method for transcribing Chinese into Russian Cyrillic script, developed by Russian sinologist Pyotr Ivanovich Kafarov (Палладий). This system has been the standard for Russian sinology since the 19th century and is still widely used in Russian academic works on China.
 
 This module provides conversion from three major Chinese romanization systems:
-- **Pinyin** (汉语拼音) - The official romanization system of the People's Republic of China
+- **Pinyin** (汉语拼音) - officially the **Chinese Phonetic Alphabet**, is the most common [romanization](https://en.wikipedia.org/wiki/Romanization) system for [Standard Chinese](https://en.wikipedia.org/wiki/Standard_Chinese)
 - **Wade-Giles** - A romanization system previously used in English-speaking countries
 - **Bopomofo** (注音符号) - The phonetic system using created by [Zhang Binglin](https://en.wikipedia.org/wiki/Zhang_Binglin), taken mainly from "[regularized](https://en.wikipedia.org/wiki/Regular_script)" forms of ancient Chinese characters
 
