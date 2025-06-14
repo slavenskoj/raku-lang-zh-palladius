@@ -1,7 +1,7 @@
 {
   "perl": "6.d",
   "name": "Lang::ZH::Palladius",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert Chinese romanization (Pinyin, Wade-Giles, Bopomofo) to Russian Palladius system",
   "authors": ["Danslav Slavenskoj"],
   "auth": "zef:slavenskoj",
