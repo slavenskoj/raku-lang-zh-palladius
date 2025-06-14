@@ -1,0 +1,29 @@
+{
+  "perl": "6.d",
+  "name": "Lang::ZH::Palladius",
+  "version": "0.0.2",
+  "description": "Convert Chinese romanization (Pinyin, Wade-Giles, Bopomofo) to Russian Palladius system",
+  "authors": ["Danslav Slavenskoj"],
+  "auth": "zef:slavenskoj",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Lang::ZH::Palladius": "lib/Lang/ZH/Palladius.rakumod"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "tags": [
+    "chinese",
+    "romanization",
+    "palladius",
+    "pinyin",
+    "wade-giles",
+    "bopomofo",
+    "zhuyin",
+    "russian",
+    "transliteration"
+  ],
+  "source-url": "https://github.com/slavenskoj/raku-lang-zh-palladius.git",
+  "api": "1"
+}
